@@ -30,11 +30,11 @@
   
 ### 🔥 News
   
-- **2023.12**: 🏆 Obtain **China National Scholarship** <!--with a rank of **1/455 (0.22%)**--> (the highest honor for undergraduates in China, awarded to top 1% students of BIT)!
+- **2023.12**: 🏆 Obtain **China National Scholarship** with a rank of **1/196 (0.5%)** (the highest honor for undergraduates in China, awarded to top 1.5% students of BIT)!
   
-- **2023.11**: 🏆 Obtain **Merit Student Cadre**!
+- **2023.11**: 🏆 Obtain **Merit Student Pacesetter**!
   
-- **2022.12**: 🏆 Obtain **China National Scholarship** <!--with a rank of **2/430 (0.47%)**--> (the highest honor for undergraduates in China, awarded to top 1% students of BIT)!
+- **2022.12**: 🏆 Obtain **China National Scholarship** with a rank of **4/255 (1.5%)** (the highest honor for undergraduates in China, awarded to top 1.5% students of BIT)!
 
 
 <br>

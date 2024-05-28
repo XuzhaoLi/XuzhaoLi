@@ -4,7 +4,7 @@
   
 ### 👨🏻‍💻 About Me
 <p>
-  &emsp;&emsp;I am <b>Xuzhao Li <font face="楷体">(李旭钊)</font></b>, an incoming M.S. student at <b><a href="https://english.bit.edu.cn/">Beijing Institute of Technology (BIT)</a></b>, supervised by <b><a href="https://ac.bit.edu.cn/szdw/dsmd/bssds/833b4ca7f9014a0886d666bf043e0e8d.htm">Prof. Fang Deng</a></b> (IEEE Senior Member).
+  &emsp;&emsp;I am <b>Xuzhao Li <font face="楷体">(李旭钊)</font></b>, an incoming M.S. student at <b><a href="https://english.bit.edu.cn/">Beijing Institute of Technology (BIT)</a></b>, supervised by <b><a href="https://ac.bit.edu.cn/szdw/jsml/mssbyznxtyjs1/8285660de0654bf69d52aa08987e752d.htm">Prof. Fang Deng</a></b> (IET Fellow).
 </p>
 <p>
   &emsp;&emsp;Currently, I am a fourth-year undergraduate student majoring in Automation at <b><a href="https://ac.bit.edu.cn/">School of Automation (AC)</a></b> at <b><a href="https://english.bit.edu.cn/">Beijing Institute of Technology (BIT)</a></b>.
@@ -12,17 +12,9 @@
 <p>
   &emsp;&emsp;I am grateful to grow up and study with my twin brother <b><a href="https://xuchen-li.github.io/">Xuchen Li</a></b>, which is a truly unique and special experience for me.
 </p>
-<br>
-</td></tr>
-
-<tr><td>
-
-### 🔬 Research Interests
-
-- Multi-agent Path Planning
-  
-- Trajectory Prediction
-
+<p>
+  &emsp;&emsp;My research focuses on <b>Multi-agent Path Planning</b>, and <b>Trajectory Prediction</b>. If you are interested in my work or would like to collaborate, please feel free to contact me.
+</p>
 <br>
 </td></tr>
 
@@ -30,12 +22,15 @@
   
 ### 🔥 News
   
-- **2023.12**: 🏆 Obtain **China National Scholarship** with a rank of **1/196 (0.5%)** (the highest honor for undergraduates in China, awarded to top 1.5% students of BIT)!
-  
-- **2023.11**: 🏆 Obtain **Merit Student Pacesetter**!
-  
-- **2022.12**: 🏆 Obtain **China National Scholarship** with a rank of **4/255 (1.5%)** (the highest honor for undergraduates in China, awarded to top 1.5% students of BIT)!
+- **2024.05**: 🏆 Obtain **TeliXu Scholarship (<font face="楷体">徐特立奖学金</font>)** (~8/15000, the highest honor in BIT)!
 
+- **2024.04**: 🏆 Obtain **Beijing Outstanding Graduates (<font face="楷体">北京市优秀毕业生</font>)** (top %5, only 14 students obtain this honor of AC, BIT)!
+
+- **2023.12**: 🏆 Obtain **China National Scholarship (<font face="楷体">国家奖学金</font>)** with a rank of 1/196 (0.5%) (the highest honor for undergraduates in China, awarded to top 2% students of BIT)!
+
+- **2023.11**: 🏆 Obtain **Merit Student Pacesetter (<font face="楷体">北京理工大学优秀学生标兵</font>)** (only 1 student obtain this honor of AC, BIT)!
+
+- **2022.12**: 🏆 Obtain **China National Scholarship (<font face="楷体">国家奖学金</font>)** with a rank of 4/255 (1.5%) (the highest honor for undergraduates in China, awarded to top 2% students of BIT)!
 
 <br>
 </td></tr>

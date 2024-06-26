@@ -7,7 +7,7 @@
   &emsp;&emsp;I am <b>Xuzhao Li <font face="楷体">(李旭钊)</font></b>, an incoming M.S. student at <b><a href="https://english.bit.edu.cn/">Beijing Institute of Technology (BIT)</a></b>, supervised by <b><a href="https://ac.bit.edu.cn/szdw/jsml/mssbyznxtyjs1/8285660de0654bf69d52aa08987e752d.htm">Prof. Fang Deng</a></b> (IET Fellow).
 </p>
 <p>
-  &emsp;&emsp;Currently, I am a fourth-year undergraduate student majoring in Automation at <b><a href="https://ac.bit.edu.cn/">School of Automation (AC)</a></b> at <b><a href="https://english.bit.edu.cn/">Beijing Institute of Technology (BIT)</a></b>.
+  &emsp;&emsp;Before that, I received my B.E. degree in Automation at <b><a href="https://ac.bit.edu.cn/">School of Automation (AC)</a></b> from <b><a href="https://english.bit.edu.cn/">Beijing Institute of Technology (BIT)</a></b> in Jun. 2024.
 </p>
 <p>
   &emsp;&emsp;I am grateful to grow up and study with my twin brother <b><a href="https://xuchen-li.github.io/">Xuchen Li</a></b>, which is a truly unique and special experience for me.
@@ -21,7 +21,9 @@
 <tr><td>
   
 ### 🔥 News
-  
+
+- **2024.06**: 👨‍🎓 Obtain my B.E. degree from **Beijing Institute of Technology** (BIT). I will always remember the wonderful 4 years I spent here. Thanks to all!
+
 - **2024.05**: 🏆 Obtain **TeliXu Scholarship (<font face="楷体">徐特立奖学金</font>)** (~8/15000, the highest honor in BIT)!
 
 - **2024.04**: 🏆 Obtain **Beijing Outstanding Graduates (<font face="楷体">北京市优秀毕业生</font>)** (top %5, only 14 students obtain this honor of AC, BIT)!

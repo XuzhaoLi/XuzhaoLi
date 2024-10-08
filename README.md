@@ -4,7 +4,7 @@
   
 ### 👨🏻‍💻 About Me
 <p>
-  &emsp;&emsp;I am <b>Xuzhao Li <font face="楷体">(李旭钊)</font></b>, an incoming M.S. student at <b><a href="https://english.bit.edu.cn/">Beijing Institute of Technology (BIT)</a></b>, supervised by <b><a href="https://ac.bit.edu.cn/szdw/jsml/mssbyznxtyjs1/8285660de0654bf69d52aa08987e752d.htm">Prof. Fang Deng</a></b> (IET Fellow).
+  &emsp;&emsp;I am <b>Xuzhao Li <font face="楷体">(李旭钊)</font></b>, a first-year M.S. student at <b><a href="https://english.bit.edu.cn/">Beijing Institute of Technology (BIT)</a></b>, supervised by <b><a href="https://ac.bit.edu.cn/szdw/jsml/mssbyznxtyjs1/8285660de0654bf69d52aa08987e752d.htm">Prof. Fang Deng</a></b>.
 </p>
 <p>
   &emsp;&emsp;Before that, I received my B.E. degree in Automation at <b><a href="https://ac.bit.edu.cn/">School of Automation (AC)</a></b> from <b><a href="https://english.bit.edu.cn/">Beijing Institute of Technology (BIT)</a></b> in Jun. 2024.
@@ -13,7 +13,7 @@
   &emsp;&emsp;I am grateful to grow up and study with my twin brother <b><a href="https://xuchen-li.github.io/">Xuchen Li</a></b>, which is a truly unique and special experience for me.
 </p>
 <p>
-  &emsp;&emsp;My research focuses on <b>Multi-agent Path Planning</b>, and <b>Trajectory Prediction</b>. If you are interested in my work or would like to collaborate, please feel free to contact me.
+  &emsp;&emsp;My research focuses on <b>Multi-agent Path Planning</b>, <b>Trajectory Prediction</b> and <b>Large Language Model</b>. If you are interested in my work or would like to collaborate, please feel free to contact me.
 </p>
 <br>
 </td></tr>
@@ -21,6 +21,8 @@
 <tr><td>
   
 ### 🔥 News
+
+- **2024.09**: 📣 Start my M.S. life at **Beijing Institute of Technology** (BIT), which is located in Haidian District, Beijing.
 
 - **2024.06**: 👨‍🎓 Obtain my B.E. degree from **Beijing Institute of Technology** (BIT). I will always remember the wonderful 4 years I spent here. Thanks to all!
 

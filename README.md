@@ -23,14 +23,15 @@
 
 ### 🔥 News
 
+- **2024.10**: 🏆 Obtain **Special Academic Scholarship (<font face="楷体">北京理工大学研究生特等奖学金</font>)**!
 - **2024.09**: 📣 Start my M.S. life at **Beijing Institute of Technology** (BIT), which is located in Haidian District, Beijing.
 - **2024.08**: 🏆 Obtain **Key Project of Bachelor’s Degree Thesis (<font face="楷体">北京理工大学学士学位论文重点项目</font>)** (only 14 students obtain this honor of AC, BIT)!
 - **2024.06**: 👨‍🎓 Obtain my B.E. degree from **Beijing Institute of Technology** (BIT). I will always remember the wonderful 4 years I spent here. Thanks to all!
-- **2024.05**: 🏆 Obtain **TeliXu Scholarship (<font face="楷体">徐特立奖学金</font>)** (~8/15000, the highest honor in BIT)!
+- **2024.05**: 🏆 Obtain **TeliXu Scholarship (<font face="楷体">北京理工大学徐特立奖学金</font>)** (~8/15000, the highest honor in BIT)!
 - **2024.04**: 🏆 Obtain **Beijing Outstanding Graduates (<font face="楷体">北京市优秀毕业生</font>)** (top %5, only 14 students obtain this honor of AC, BIT)!
-- **2023.12**: 🏆 Obtain **China National Scholarship (<font face="楷体">国家奖学金</font>)** with a rank of 1/196 (0.5%) (the highest honor for undergraduates in China, awarded to top 2% students of BIT)!
+- **2023.12**: 🏆 Obtain **China National Scholarship (<font face="楷体">国家奖学金</font>)** with a rank of **1/196 (0.5%)** (Top 2%, the highest honor for undergraduates in China)!
 - **2023.11**: 🏆 Obtain **Merit Student Pacesetter (<font face="楷体">北京理工大学优秀学生标兵</font>)** (only 1 student obtain this honor of AC, BIT)!
-- **2022.12**: 🏆 Obtain **China National Scholarship (<font face="楷体">国家奖学金</font>)** with a rank of 4/255 (1.5%) (the highest honor for undergraduates in China, awarded to top 2% students of BIT)!
+- **2022.12**: 🏆 Obtain **China National Scholarship (<font face="楷体">国家奖学金</font>)** with a rank of **4/255 (1.5%)** (Top 2%, the highest honor for undergraduates in China)!
 
 <br>
 </td></tr>
